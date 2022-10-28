@@ -15,5 +15,5 @@
 
 ![image](https://user-images.githubusercontent.com/84688951/198675541-732dd49e-3c94-4eb0-ae97-091b8ec71460.png)
 
-* Link: https://organo-chi-lac.vercel.app/
+* Link :mag_right:: https://organo-chi-lac.vercel.app/
 
