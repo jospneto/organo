@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/84688951/198674442-bdfcf4ba-7e76-4ee6-bae5-3d6c0901667f.png)
 ![image](https://user-images.githubusercontent.com/84688951/198674517-a8f6002c-709c-4f5a-945a-e45134e42c1c.png)
 
->Projeto publicado no vercel
+>Projeto publicado no Vercel
 
 ![image](https://user-images.githubusercontent.com/84688951/198675541-732dd49e-3c94-4eb0-ae97-091b8ec71460.png)
 
