@@ -1,4 +1,4 @@
-<h1>Organo IFsertãoPE</h1>
+<h1>Organo IFSertãoPE</h1>
 <p>Projeto utilizando a biblioteca React do JavaScript que busca criar um sistema de organização para alocar os alunos nas áreas de projetos do campus e nos laboratórios</p>
 
 >Tecnologias utilizadas
@@ -15,5 +15,5 @@
 
 ![image](https://user-images.githubusercontent.com/84688951/198675541-732dd49e-3c94-4eb0-ae97-091b8ec71460.png)
 
-* link: https://organo-chi-lac.vercel.app/
+* Link: https://organo-chi-lac.vercel.app/
 
